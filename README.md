@@ -22,12 +22,12 @@ Users can enter slang words, and the app will fetch their meanings, examples, an
       │── README.md             # Project documentation
       └── assets/               # Images & UI assets (if any)
 ### 🛠 Technologies Used
-    Python (Flask, Streamlit)
+    Python (Streamlit)
     Google Generative AI (LLM for explanations)
     Streamlit Cloud (for deployment)
 ### 🚀 Setup & Installation
 #### 1️⃣ Clone the Repository
-          git clone https://github.com/yourusername/slangsavvy.git
+          git clone https://github.com/24-sravanthi/slangsavvy.git
           cd slangsavvy
 #### 2️⃣ Install Dependencies
           pip install -r requirements.txt
